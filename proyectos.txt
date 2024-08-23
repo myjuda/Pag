@@ -1,7 +1,5 @@
-Hola mundO
-
-Como vamos?
-
+1) Voy a dejar un nuevo reporte
+vamos a cambiar todos los pasos y sobre todo, las principales caracteristicas.
 8va modificacion- Importante.
 Todo bien, estoy intentando confirgurar el seguimiento de un archivo. Pero esta va a ser parte de una nueva modificacion.
 
